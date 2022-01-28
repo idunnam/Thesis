@@ -7,4 +7,4 @@ Thesis<br />
 |-- plot_scripts          # scripts for plotting <br />
 |-- process_data_script   # scripts for processing model output data<br />
 |-- src<br /> 
-    |-LICENCE             # licence for code
+        |-LICENCE             # licence for code
