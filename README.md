@@ -1,5 +1,5 @@
 # Thesis 
-## Data analasys Master's Thesis<br />
+### Data analasys Master's Thesis<br />
 
 Thesis<br />
 |-- README.md             # overview if the project<br />
