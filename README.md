@@ -1,7 +1,7 @@
 # Thesis 
-Data analasys Master's Thesis
+## Data analasys Master's Thesis<br />
 
-Thesis
+Thesis<br />
 |-- README.md             # overview if the project<br />
 |-- Functions             # Functions used in the project <br />
 |-- plot_scripts          # scripts for plotting <br />
