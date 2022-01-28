@@ -6,5 +6,5 @@ Thesis<br />
 |-- Functions             # Functions used in the project <br />
 |-- plot_scripts          # scripts for plotting <br />
 |-- process_data_script   # scripts for processing model output data<br />
-|-- src <br />                  
+|-- src<br /> 
     |-LICENCE             # licence for code
