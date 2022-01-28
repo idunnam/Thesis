@@ -2,8 +2,7 @@
 Data analasys Master's Thesis
 
 Thesis
-|-- README.md             # overview if the project 
-
+|-- README.md             # overview if the project\\
 |-- Functions             # Functions used in the project 
 
 |-- plot_scripts          # scripts for plotting 
