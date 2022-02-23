@@ -1,10 +1,10 @@
 # Thesis 
-Data analasys Master's Thesis
+### Data analasys Master's Thesis<br />
 
-Thesis
-|-- README.md             # overview if the project 
-|-- Functions             # Functions used in the project 
-|-- plot_scripts          # scripts for plotting 
-|-- process_data_script   # scripts for processing model output data
-|-- src                   
-    |-LICENCE             # licence for code
+Thesis<br />
+|-- README.md &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           # overview if the project<br />
+|-- Functions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;           # Functions used in the project <br />
+|-- plot_scripts &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # scripts for plotting <br />
+|-- process_data_script &nbsp;&nbsp;   # scripts for processing model output data<br />
+|-- src<br /> 
+        |-LICENCE             # licence for code
